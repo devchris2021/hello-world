@@ -1,2 +1,2 @@
 # hello-world
-brand new to programming do hello world here i come
+brand new to programming, so hello world here i come
